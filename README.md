@@ -1,6 +1,6 @@
 # ue5-xp-levelling
 
-Overview
+
 This project builds on the Spell Casting gameplay system built in Unreal Engine (C++) and adds an XP mechanic and foundations of levelling and skill points.
 
 ## Features
